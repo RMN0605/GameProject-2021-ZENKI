@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: cd6f012025dd51b469a076a15bc7ab78
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Heisei Mincho Std
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: b839770e40bde514585d9a14fdfcaf89, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
